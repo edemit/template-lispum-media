@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url(../fonts/centurygothic.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url(../fonts/sourcesansprobold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url(../fonts/sourcesansprolight.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica LT UltraCompressed';
+    src: url(../fonts/helveticaltultracompressed.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cicle';
+    src: url(../fonts/ciclefinaitalic.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cicle';
+    src: url(../fonts/ciclefina.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Colaborate-Thin';
+    src: url(../fonts/colaboratethin.otf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Colaborate-Regular';
+    src: url(../fonts/colaborateregular.otf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url(../fonts/bebas.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
