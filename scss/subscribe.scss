@@ -1,0 +1,59 @@
+.subscribe{
+    @include __910{
+        display: none;
+    }
+    &__wrapper{
+        position: fixed;
+        top: 7px;
+        right: 273px;
+        margin-left: auto;
+        display: flex;
+        width: 409px;
+        height: 29px;
+        background-color: #faa61a;
+        align-items: center;
+        z-index: 5;
+    }
+    &__form{
+        margin: 4px 12px 8px 20px;
+        &__input{
+            width: 221px;
+            height: 17px;
+            border: none;
+        }
+    }
+    &__button{
+        transition: all 0.2s;
+        margin-top: 5px;
+        font-family: "Century Gothic";
+        font-size: 14px;
+        color: #000000;
+        border: none;
+        outline: none;
+        background: none;
+        &:hover{
+            color: #ffffff;
+            transition: all 0.2s;
+        }
+    }
+    &__socials{
+        
+        &--twitter, &--facebook{
+            transition: all 0.2s;
+            transform: scale(1.2);
+            padding-left: 6px;
+            margin-top: 5px;
+            margin-left: 6px;
+            height: 20px;
+            color: #000000;
+            border-left: 1px solid #ffffff;
+            &:hover{
+                color: #ffffff;
+                transition: all 0.2s;
+            }
+        }
+        &--twitter{
+            margin-right: 3px;
+        }
+    }
+}
